@@ -12,3 +12,5 @@ Through these EDA and visualization techniques, I gained a deeper understanding 
 # correlation analysis
 ![correlation analysis](https://github.com/user-attachments/assets/97bc20de-90b8-4b6e-8b28-f8574a4100d1)
 
+# distribution analysis
+![distribution analysis](https://github.com/user-attachments/assets/0eb67171-5b3f-425a-88b8-77a7cca24d7b)
