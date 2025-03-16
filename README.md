@@ -8,3 +8,7 @@ To begin, I performed data cleaning by handling missing values, checking for dup
 For data visualization, I used histograms and box plots to analyze feature distributions and detect potential outliers. Correlation heatmaps helped reveal relationships between numerical variables, while bar charts and count plots provided insights into categorical feature distributions. Additionally, I created scatter plots and violin plots to examine relationships between different variables, helping to identify possible trends and clusters.
 
 Through these EDA and visualization techniques, I gained a deeper understanding of the dataset’s structure and potential challenges, setting the stage for more informed feature engineering and model development.
+
+# correlation analysis
+![correlation analysis](https://github.com/user-attachments/assets/97bc20de-90b8-4b6e-8b28-f8574a4100d1)
+
