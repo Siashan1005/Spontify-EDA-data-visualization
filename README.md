@@ -1,6 +1,6 @@
 # Spontify-EDA-data-visualization
 
-This project focuses on exploratory data analysis (EDA) and data visualization to better understand the dataset and extract meaningful insights. The dataset comes from [insert dataset source, e.g., PetFinder, IMDB, CIFAR-10, etc.], and the goal is to analyze key patterns, relationships, and potential biases in the data. By applying EDA techniques, I aim to identify important trends that can inform feature selection, preprocessing strategies, and model performance improvements.
+This project focuses on exploratory data analysis (EDA) and data visualization to better understand the dataset and extract meaningful insights. The dataset comes from kaggle website, Most Streamed Spotify Songs 2024, and the goal is to analyze key patterns, relationships, and potential biases in the data. By applying EDA techniques, I aim to identify important trends that can inform feature selection, preprocessing strategies, and model performance improvements.
 
 # EDA and Data Visualization
 To begin, I performed data cleaning by handling missing values, checking for duplicates, and ensuring data consistency. I then explored summary statistics to understand distributions and key characteristics of numerical and categorical features.
